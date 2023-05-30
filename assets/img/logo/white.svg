@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-3888,-516.138)">
+        <g transform="matrix(1.60256,0,0,0.801282,-2342.77,516.138)">
+            <rect id="Horizontal" x="3888" y="0" width="624" height="624" style="fill:none;"/>
+            <g id="Horizontal1" serif:id="Horizontal">
+                <g transform="matrix(0.939546,0,0,0.939546,253.907,41.3015)">
+                    <g transform="matrix(3.85718,0,0,7.71436,2703.69,-20529.1)">
+                        <g transform="matrix(33.4344,0,0,33.4344,464.8,2710.87)">
+                        </g>
+                        <text x="343.901px" y="2710.87px" style="font-family:'MusticaPro-SemiBold', 'Mustica Pro';font-weight:600;font-size:33.434px;fill:white;">n<tspan x="362.357px 380.445px 399.837px 407.66px 425.748px " y="2710.87px 2710.87px 2710.87px 2710.87px 2710.87px ">volve</tspan>d</text>
+                    </g>
+                    <g transform="matrix(0.624,0,0,1.248,1461.89,-644.14)">
+                        <path d="M4112.84,653L4112.84,841L3924.84,841L3924.84,686.063C3924.84,667.803 3939.64,653 3957.9,653L4112.84,653ZM4045.89,686.291C4045.89,694.176 4052.16,700.646 4060.04,700.646C4067.93,700.646 4074.2,694.176 4074.2,686.291C4074.2,678.607 4067.93,672.138 4060.04,672.138C4052.16,672.138 4045.89,678.607 4045.89,686.291ZM4068.69,819.839L4071.97,819.839L4071.97,718.682L4068.69,718.682L4068.69,718.679L4044.83,718.679L4044.83,731.213C4038.15,723.329 4026.41,716.658 4013.66,716.658C3984.71,716.658 3963.48,740.31 3963.48,769.26C3963.48,798.211 3984.71,821.862 4013.66,821.862C4026.41,821.862 4038.15,815.191 4044.83,806.903L4044.83,819.841L4068.69,819.841L4068.69,819.839ZM4016.09,740.512C4031.88,740.512 4044.83,753.469 4044.83,769.26C4044.83,785.052 4031.88,798.009 4016.09,798.009C4000.29,798.009 3987.34,785.052 3987.34,769.26C3987.34,753.469 4000.29,740.512 4016.09,740.512Z" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
